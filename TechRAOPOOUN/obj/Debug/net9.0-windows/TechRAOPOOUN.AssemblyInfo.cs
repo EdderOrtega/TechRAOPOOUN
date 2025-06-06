@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TechRAOPOOUN")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+772a1908b26416d005f631d64133eb4350bcb758")]
 [assembly: System.Reflection.AssemblyProductAttribute("TechRAOPOOUN")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TechRAOPOOUN")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
